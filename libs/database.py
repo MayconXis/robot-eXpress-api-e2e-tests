@@ -2,7 +2,7 @@ from robot.api.deco import keyword
 from pymongo import MongoClient
 import bcrypt
 
-client= MongoClient('mongodb+srv://mayconPB:compassUol@cluster0.6km3kj5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+client= MongoClient('mongodb+srv://<BD>:<db_password>@cluster0.6km3kj5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
 
 db = client['compassdb']
 
