@@ -1,0 +1,76 @@
+{
+    "create" : {
+        "user": {
+            "name": "Maycon",
+            "email": "fulano@qa.com",
+            "password": "teste123"
+    },
+        "task": {
+            "name": "Estudar Robot Framework",
+            "tags": [
+                "Estudar Robot eXpress",
+                "Estudar para Compass Uol",
+                "Estudar Python"
+            ]
+        }
+    },
+       "duplicate" : {
+        "user": {
+            "name": "Susu",
+            "email": "susu@qa.com",
+            "password": "teste123"
+    },
+        "task": {
+            "name": "Recrutar IA",
+            "tags": [ ]
+        }
+
+       },
+          "tags_limit" : {
+        "user": {
+            "name": "Bnine",
+            "email": "bnine@qa.com",
+            "password": "teste123"
+    },
+        "task": {
+            "name": "Recrutar IA",
+            "tags": [ "Estudar QA",
+                "Estudar Assembly",
+                "Estudar Ruby", 
+                "Estudar JavaScript "
+            
+            ]
+        }
+    },
+    "done" : {
+        "user": {
+            "name": "Tonny Stark",
+            "email": "Tonny@qa.com",
+            "password": "teste123"
+    },
+        "task": {
+            "name": "Criar uma IA ",
+            "tags": [
+                "jarvis",
+                "ultron",
+                "ark"
+            ]
+        }
+    },
+     "delete" : {
+        "user": {
+            "name": "Jose",
+            "email": "jose@qa.com",
+            "password": "teste123"
+    },
+        "task": {
+            "name": "apagada ",
+            "tags": [
+                "js",
+                "py",
+                "ark"
+            ]
+        }
+
+   }
+}

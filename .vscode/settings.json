@@ -1,0 +1,15 @@
+{
+    "robot.interactiveConsole.arguments": [],
+    "robot.python.env": {
+
+    "robot.run.arguments": [
+    "--outputdir",
+    "${workspaceFolder}/results"
+]
+    },
+    "code-runner.cwd": "",
+    "robot.variables": {
+    
+    },
+    "task.slowProviderWarning": true
+}
